@@ -1,8 +1,5 @@
-# Caravan-Insurance-Policy-Prediction-Machine Learning
-<br/>
-<br/>
-# Problem Statement  
-
+# Caravan-Insurance-Policy-Prediction-Machine Learning  
+# Problem Statement    
 We want you to predict whether a customer is interested in a caravan insurance policy from other data about the
 customer. Information about customers consists of 86 variables and includes product usage data and sociodemographic
 data derived from zip area codes.  
@@ -13,10 +10,10 @@ Our Target/Dependent Variable is V86.
 <br/>
 <br/>
 # Solution-
-we have two data sets-    
-1)carvan_train.csv<br/>  
+we have two data sets-<br/>   
+1)carvan_train.csv  
 2)carvan_test.csv<br/>  
-<br/>  
+
 # Steps-  
 1)Read both train and test data using python pandas library.    
 2)Concatenate both train and test data for data preprocessing and data cleaning.    
