@@ -39,4 +39,5 @@ we have two data sets-
 22)Fit on whole train data using best estimator of RandomizedSearchCV.    
 23)Do the prediction on whole test data.    
 24)Save prediction(hardclasses) in an csv file.    
-25)Both the models perform well.  
+25)Both the models perform well.<br/>
+Note-: To understand the data/columns,please refer data dictionary.
