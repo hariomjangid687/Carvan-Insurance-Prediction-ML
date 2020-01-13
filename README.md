@@ -39,9 +39,9 @@ we have two data sets-
 22)Fit on whole train data using best estimator of RandomizedSearchCV.    
 23)Do the prediction on whole test data.    
 24)Save prediction(hardclasses) in an csv file.    
-25)Try boosting algorithms like GradientBoostingMachines and XGBoost.
-26)Try KNN and Naiye bayes algorithms.
-27)From all the model,XGBoost perform well and gives better results compare to other models.
+25)Try boosting algorithms like GradientBoostingMachines and XGBoost.  
+26)Try KNN and Naiye bayes algorithms.  
+27)From all the model,XGBoost perform well and gives better results compare to other models.  
 <br/>
 <br/>
 Note-: To understand the data/columns,please refer data dictionary.
